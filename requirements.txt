@@ -1,0 +1,11 @@
+
+azure-functions
+azure-eventhub
+azure-identity
+azure-ai-ml
+fastapi
+uvicorn
+joblib
+pandas
+scikit-learn
+requests

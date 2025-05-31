@@ -1,0 +1,7 @@
+
+ml_endpoint: ${ML_ENDPOINT}
+ml_key: ${ML_KEY}
+event_hub_connection_string: ${EVENT_HUB_CONNECTION_STRING}
+event_hub_name: ${EVENT_HUB_NAME}
+sentinel_workspace_id: ${SENTINEL_WORKSPACE_ID}
+sentinel_shared_key: ${SENTINEL_SHARED_KEY}

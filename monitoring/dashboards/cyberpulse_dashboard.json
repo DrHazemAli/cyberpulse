@@ -1,0 +1,28 @@
+
+{
+  "dashboard": {
+    "id": null,
+    "title": "CyberPulse AI Security Dashboard",
+    "panels": [
+      {
+        "type": "graph",
+        "title": "Event Counts by Location",
+        "targets": [
+          {
+            "expr": "cyberpulse_event_count",
+            "legendFormat": "{{location}}"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "title": "Anomaly Scores",
+        "targets": [
+          {
+            "expr": "cyberpulse_anomaly_score"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+
+# To enable SSL/TLS for FastAPI:
+# 1. Generate a certificate (e.g., using Let's Encrypt or self-signed)
+# 2. Use uvicorn with SSL flags:
+# uvicorn api:app --host 0.0.0.0 --port 443 --ssl-keyfile=path/to/key.pem --ssl-certfile=path/to/cert.pem
