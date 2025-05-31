@@ -4,7 +4,7 @@
 **CyberPulse AI** is a next-generation, AI-powered security monitoring system that **detects anomalies**, **analyzes threats**, and **provides real-time insights** to protect your digital assets.  
 Designed for **production use** with **cloud-native architecture**, **Docker support**, **CI/CD pipelines**, and **state-of-the-art AI models**.
 
-![CyberPulse AI](https://github.com/DrHazemAli/cyberpulse/blob/main/assets/image.png)
+![CyberPulse AI](https://github.com/DrHazemAli/cyberpulse/blob/main/assets/inforgraphic.png)
 
 
 ## 🌐 What is CyberPulse AI?
